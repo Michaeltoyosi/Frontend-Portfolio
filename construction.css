@@ -66,19 +66,19 @@ nav{
 }
 @keyframes change{
 	0%{
-		background-image: url("../properties/images/house4.jpg");
+		background-image: url("properties/images/house4.jpg");
 	}
 	20%{
-		background-image: url("../properties/images/house3.jpg");
+		background-image: url("properties/images/house3.jpg");
 	}
 	40%{
-		background-image: url("../properties/images/house6.jpg");
+		background-image: url("properties/images/house6.jpg");
 	}
 	60%{
-		background-image: url("../properties/images/house2.jpg");
+		background-image: url("properties/images/house2.jpg");
 	}
 	80%{
-		background-image: url("../properties/images/house11.jpeg");
+		background-image: url("properties/images/house11.jpeg");
 	}
 	100%{
 		background-image: url("../properties/images/house4.jpg");
