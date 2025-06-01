@@ -81,7 +81,7 @@ nav{
 		background-image: url("properties/images/house11.jpeg");
 	}
 	100%{
-		background-image: url("../properties/images/house4.jpg");
+		background-image: url("properties/images/house4.jpg");
 	}
 
 }
